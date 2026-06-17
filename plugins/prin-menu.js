@@ -16,9 +16,9 @@ const tags = {
 
 const defaultMenu = {
   before: `
-> ¡Hola, buenas tardes! ⸜(｡˃ ᵕ ˂ )⸝♡ Soy 𓆩⚝𓆪 HINATA BOT 𓍯 𓆩⚝𓆪, un gusto conocerte. Estoy aquí para lo que necesites ♡
+> ¡Hola, buenas tardes!  🥷Soy  DARKO_BOT🥷 , un gusto conocerte. Estoy aquí para lo que necesites 
 
-𑁍𓂃 𓈒𓏸 *DEVELOPERS ::* EL VIGILANTE & BRAYANRK
+𑁍𓂃 𓈒𓏸 *DEVELOPERS ::* D4RKO
 𑁍𓂃 𓈒𓏸 *TIPO ::* Bot
 𑁍𓂃 𓈒𓏸 *SISTEMA/OPR ::* android
 𑁍𓂃 𓈒𓏸 *TIME ::* %time
@@ -33,7 +33,7 @@ const defaultMenu = {
   footer: '',
   after: `
 
-> *HINATA BOT desarrollado por EL VIGILANTE & BRAYANRK* ૮(˶ᵔᵕᵔ˶)ა
+> *DARKO desarrollado por DARKO,EL VIGILANTE & BRAYANRK* ૮(˶ᵔᵕᵔ˶)ა
 `
 }
 
@@ -59,7 +59,7 @@ let handler = async (m, { conn, usedPrefix: _p }) => {
         desc: p.desc || ''
       }))
 
-    let bannerFinal = 'https://files.catbox.moe/r60c8l.jpg' 
+    let bannerFinal = 'https://files.catbox.moe/j2n2tl.jpg' 
 
     let textoMenu = defaultMenu.before
       .replace(/%time/g, new Date().toLocaleString())
