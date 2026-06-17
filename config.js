@@ -5,15 +5,15 @@ import { fileURLToPath } from 'url'
 global.owner = [
   ['51910227479', 'AmilcarGit', true],
   ['51910227479'],
-  ['51925679896'],
-  ['51910227479']
+  ['51956768066'],
+  ['51913454004']
 ]
 
 global.mods = []
 global.prems = []
 
-global.namebot = '𝙴𝙻𝚈𝚂𝚂𝙸𝙰 𝙼𝙳 '
-global.packname = '𝙴𝙻𝚈𝚂𝚂𝙸𝙰 𝙼𝙳 🌸'
+global.namebot = 'DARKO_BOT '
+global.packname = '🔰DARKO_BOT🔰'
 global.author = 'AmilcarGit| © 𝟸𝟶𝟸𝟼 '
 global.moneda = '𝙴𝙻𝚈𝚂𝚂𝙸𝙰 𝙼𝙳'
 
@@ -25,13 +25,13 @@ global.jadi = 'subElyssia'
 global.yukiJadibts = true
 
 global.namecanal = '❇️'
-global.idcanal = '120363404707199986@newsletter'
-global.idcanal2 = '120363404707199986@newsletter'
+global.idcanal = ''
+global.idcanal2 = ''
 global.canal = 'pronto'
-global.canalreg = '120363404707199986@newsletter'
+global.canalreg = ''
 
 global.ch = {
-  ch1: '120363404707199986@newsletter'
+  ch1: ''
 }
 
 global.multiplier = 69
@@ -53,6 +53,6 @@ global.APIs = {
 let file = fileURLToPath(import.meta.url)
 watchFile(file, () => {
   unwatchFile(file)
-  console.log(chalk.redBright("🌸 Se actualizó 'config.js'"))
+  console.log(chalk.redBright("🔝 Se actualizó 'config.js'"))
   import(`file://${file}?update=${Date.now()}`)
 })
