@@ -1,4 +1,7 @@
 <⚡DARKO BOT⚡>
+div align="center">
+  <img src="https://files.catbox.moe/7ktyoa.jpg" width="320">
+---
 </p>🌸 Descripción
 
 Elyssia-Bot-MD es un bot multipropósito para WhatsApp Multi Device desarrollado para ofrecer una experiencia rápida, elegante y moderna.
