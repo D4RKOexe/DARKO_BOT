@@ -1,12 +1,4 @@
-*⚡DARKO BOT👑*
-
-  <a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/pddbZTv0/1000519692.png' border='0' alt='1000519692'></a>"
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/TU-USUARIO/Elyssia-Bot-MD/main/src/Elyssia.jpg" width="350"></p><p align="center">
-<a href="#"><img title="Author" src="https://img.shields.io/badge/Author-Elyssia%20Team-purple?style=for-the-badge&logo=github"></a>
-<a href="#"><img title="Version" src="https://img.shields.io/badge/Version-1.0.0-blue?style=for-the-badge"></a>
-<a href="#"><img title="NodeJS" src="https://img.shields.io/badge/NodeJS-20+-green?style=for-the-badge&logo=node.js"></a>
+<⚡DARKO BOT⚡>
 </p>🌸 Descripción
 
 Elyssia-Bot-MD es un bot multipropósito para WhatsApp Multi Device desarrollado para ofrecer una experiencia rápida, elegante y moderna.
