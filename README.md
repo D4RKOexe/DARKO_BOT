@@ -1,5 +1,4 @@
 <⚡DARKO BOT⚡>
-div align="center">
   <img src="https://files.catbox.moe/7ktyoa.jpg" width="320">
 ---
 </p>🌸 Descripción
