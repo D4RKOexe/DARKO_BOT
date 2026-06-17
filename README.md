@@ -1,13 +1,13 @@
 <⚡DARKO BOT⚡>
   <img src="https://files.catbox.moe/7ktyoa.jpg" width="320">
 ---
-</p>🌸 Descripción
+</p>INFOℹ
 
-Elyssia-Bot-MD es un bot multipropósito para WhatsApp Multi Device desarrollado para ofrecer una experiencia rápida, elegante y moderna.
+DARKO_BOT es un bot multipropósito para WhatsApp Multi Device desarrollado para ofrecer una experiencia rápida, elegante y moderna.
 
 Incluye funciones de administración, inteligencia artificial, entretenimiento, descargas, multimedia y mucho más.
 
-«💜 La elegancia y el poder en un solo bot.»
+«⚡ La elegancia y el poder en un solo bot.»
 
 ---
 
@@ -53,7 +53,7 @@ Comando| Función
 
 Si te gusta el proyecto deja una estrella ⭐ en GitHub.
 
-✨ Elyssia MD ✨
+✨ DARKO_BOT ✨
 
 Más que un bot, una compañera digital.
 
@@ -76,12 +76,12 @@ termux-setup-storage
 
 3.  **Clona el Repositorio del Bot**
     ```bash
-    git clone https://github.com/AmilcarGit/ElyssiaBot-MD.git
+    
     ```
 
 4.  **Accede al Directorio del Proyecto**
     ```bash
-    cd ElyssiaBot-MD
+ 
     ```
 
 5.  **Instala las Dependencias de Node.js**
